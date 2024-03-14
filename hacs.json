@@ -1,0 +1,6 @@
+{
+  "name": "udp_light",
+  "country": "NO",
+  "homeassistant": "2024.3.0",
+  "persistent_directory": "userfiles"
+}
