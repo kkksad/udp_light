@@ -1,5 +1,10 @@
 {
-  "domain": "udp_light",
-  "name": "UDP Light",
-  "repository": "https://github.com/kkksad/udp_light"
+    "domain": "udp_light",
+    "name": "UDP Light",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "description": "Custom UDP light integration for Home Assistant.",
+    "category": "Integration",
+    "dependencies": [],
+    "min_ha_version": "2022.4.0"
 }
